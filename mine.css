@@ -11,3 +11,16 @@ align-items: center;
     color: green;
     font-size: 25px;
 }
+
+.dd {
+    width: 250px;
+    height: 40px;
+    background-color: aqua;
+    border: 2px solid rgb(0, 87, 87);
+    border-radius: 15px;
+}
+
+.dark {
+    background: black;
+    color: white;
+}
