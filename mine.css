@@ -1,0 +1,13 @@
+.kekeshka {
+width: 100%;
+height: 50px;
+background-color: aqua;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.kekeshka h2 {
+    color: green;
+    font-size: 25px;
+}
